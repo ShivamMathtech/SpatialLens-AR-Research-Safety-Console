@@ -1,0 +1,6005 @@
+{
+  "note": "Synthetic color-component annotations, not a natural-image benchmark.",
+  "frames": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            171,
+            208,
+            188,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            406,
+            189,
+            417,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            270,
+            242,
+            331,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            504,
+            257,
+            533,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 1,
+      "timestamp": 0.06666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            171,
+            208,
+            188,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            406,
+            189,
+            417,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            271,
+            242,
+            332,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            503,
+            257,
+            532,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "timestamp": 0.13333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            172,
+            208,
+            189,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            406,
+            189,
+            417,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            271,
+            242,
+            332,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            503,
+            257,
+            532,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "timestamp": 0.2,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            173,
+            208,
+            190,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            406,
+            189,
+            417,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            272,
+            242,
+            333,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            502,
+            257,
+            531,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "timestamp": 0.26666666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            174,
+            208,
+            191,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            406,
+            189,
+            417,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            273,
+            242,
+            334,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            502,
+            257,
+            531,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.3333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            175,
+            208,
+            192,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            406,
+            189,
+            417,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            273,
+            242,
+            334,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            501,
+            257,
+            530,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "timestamp": 0.4,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            175,
+            208,
+            192,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            405,
+            189,
+            416,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            274,
+            242,
+            335,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            501,
+            257,
+            530,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "timestamp": 0.4666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            176,
+            208,
+            193,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            405,
+            189,
+            416,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            274,
+            242,
+            335,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            500,
+            257,
+            529,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "timestamp": 0.5333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            177,
+            208,
+            194,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            405,
+            189,
+            416,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            275,
+            242,
+            336,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            500,
+            257,
+            529,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "timestamp": 0.6,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            178,
+            208,
+            195,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            405,
+            189,
+            416,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            275,
+            242,
+            336,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            499,
+            257,
+            528,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.6666666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            178,
+            208,
+            195,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            405,
+            189,
+            416,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            276,
+            242,
+            337,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            498,
+            257,
+            527,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "timestamp": 0.7333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            179,
+            208,
+            196,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            404,
+            189,
+            415,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            276,
+            242,
+            337,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            498,
+            257,
+            527,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "timestamp": 0.8,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            180,
+            208,
+            197,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            404,
+            189,
+            415,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            277,
+            242,
+            338,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            497,
+            257,
+            526,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "timestamp": 0.8666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            181,
+            208,
+            198,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            404,
+            189,
+            415,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            278,
+            242,
+            339,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            497,
+            257,
+            526,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "timestamp": 0.9333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            181,
+            208,
+            198,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            404,
+            189,
+            415,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            278,
+            242,
+            339,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            496,
+            257,
+            525,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "timestamp": 1.0,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            182,
+            208,
+            199,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            404,
+            189,
+            415,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            279,
+            242,
+            340,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            496,
+            257,
+            525,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "timestamp": 1.0666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            183,
+            208,
+            200,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            403,
+            189,
+            414,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            279,
+            242,
+            340,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            495,
+            257,
+            524,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "timestamp": 1.1333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            184,
+            208,
+            201,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            403,
+            189,
+            414,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            280,
+            242,
+            341,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            495,
+            257,
+            524,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "timestamp": 1.2,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            184,
+            208,
+            201,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            403,
+            189,
+            414,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            280,
+            242,
+            341,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            494,
+            257,
+            523,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "timestamp": 1.2666666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            185,
+            208,
+            202,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            403,
+            189,
+            414,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            281,
+            242,
+            342,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            494,
+            257,
+            523,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "timestamp": 1.3333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            186,
+            208,
+            203,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            403,
+            189,
+            414,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            282,
+            242,
+            343,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            493,
+            257,
+            522,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "timestamp": 1.4,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            187,
+            208,
+            204,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            402,
+            189,
+            413,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            282,
+            242,
+            343,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            493,
+            257,
+            522,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "timestamp": 1.4666666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            187,
+            208,
+            204,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            402,
+            189,
+            413,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            283,
+            242,
+            344,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            492,
+            257,
+            521,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "timestamp": 1.5333333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            188,
+            208,
+            205,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            402,
+            189,
+            413,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            283,
+            242,
+            344,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            491,
+            257,
+            520,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "timestamp": 1.6,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            189,
+            208,
+            206,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            402,
+            189,
+            413,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            284,
+            242,
+            345,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            491,
+            257,
+            520,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "timestamp": 1.6666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            190,
+            208,
+            207,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            401,
+            189,
+            412,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            284,
+            242,
+            345,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            490,
+            257,
+            519,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "timestamp": 1.7333333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            190,
+            208,
+            207,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            401,
+            189,
+            412,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            285,
+            242,
+            346,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            490,
+            257,
+            519,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "timestamp": 1.8,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            191,
+            208,
+            208,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            401,
+            189,
+            412,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            285,
+            242,
+            346,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            489,
+            257,
+            518,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "timestamp": 1.8666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            192,
+            208,
+            209,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            401,
+            189,
+            412,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            286,
+            242,
+            347,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            489,
+            257,
+            518,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "timestamp": 1.9333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            193,
+            208,
+            210,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            401,
+            189,
+            412,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            286,
+            242,
+            347,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            488,
+            257,
+            517,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "timestamp": 2.0,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            193,
+            208,
+            210,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            400,
+            189,
+            411,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            287,
+            242,
+            348,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            488,
+            257,
+            517,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "timestamp": 2.066666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            194,
+            208,
+            211,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            400,
+            189,
+            411,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            288,
+            242,
+            349,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            487,
+            257,
+            516,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "timestamp": 2.1333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            195,
+            208,
+            212,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            400,
+            189,
+            411,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            288,
+            242,
+            349,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            487,
+            257,
+            516,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "timestamp": 2.2,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            195,
+            208,
+            212,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            400,
+            189,
+            411,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            289,
+            242,
+            350,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            486,
+            257,
+            515,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "timestamp": 2.2666666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            196,
+            208,
+            213,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            399,
+            189,
+            410,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            289,
+            242,
+            350,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            486,
+            257,
+            515,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "timestamp": 2.3333333333333335,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            197,
+            208,
+            214,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            399,
+            189,
+            410,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            290,
+            242,
+            351,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            485,
+            257,
+            514,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "timestamp": 2.4,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            197,
+            208,
+            214,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            399,
+            189,
+            410,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            290,
+            242,
+            351,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            485,
+            257,
+            514,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "timestamp": 2.466666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            198,
+            208,
+            215,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            398,
+            189,
+            409,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            291,
+            242,
+            352,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            484,
+            257,
+            513,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "timestamp": 2.533333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            199,
+            208,
+            216,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            398,
+            189,
+            409,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            291,
+            242,
+            352,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            484,
+            257,
+            513,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "timestamp": 2.6,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            200,
+            208,
+            217,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            398,
+            189,
+            409,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            292,
+            242,
+            353,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            483,
+            257,
+            512,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "timestamp": 2.6666666666666665,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            200,
+            208,
+            217,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            398,
+            189,
+            409,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            292,
+            242,
+            353,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            483,
+            257,
+            512,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "timestamp": 2.7333333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            201,
+            208,
+            218,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            397,
+            189,
+            408,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            293,
+            242,
+            354,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            482,
+            257,
+            511,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "timestamp": 2.8,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            202,
+            208,
+            219,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            397,
+            189,
+            408,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            294,
+            242,
+            355,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            482,
+            257,
+            511,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "timestamp": 2.8666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            202,
+            208,
+            219,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            397,
+            189,
+            408,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            294,
+            242,
+            355,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            481,
+            257,
+            510,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "timestamp": 2.933333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            203,
+            208,
+            220,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            397,
+            189,
+            408,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            295,
+            242,
+            356,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            481,
+            257,
+            510,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "timestamp": 3.0,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            204,
+            208,
+            221,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            396,
+            189,
+            407,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            295,
+            242,
+            356,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            480,
+            257,
+            509,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "timestamp": 3.066666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            204,
+            208,
+            221,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            396,
+            189,
+            407,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            296,
+            242,
+            357,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            480,
+            257,
+            509,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "timestamp": 3.1333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            205,
+            208,
+            222,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            396,
+            189,
+            407,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            296,
+            242,
+            357,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            479,
+            257,
+            508,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 48,
+      "timestamp": 3.2,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            206,
+            208,
+            223,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            395,
+            189,
+            406,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            297,
+            242,
+            358,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            479,
+            257,
+            508,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 49,
+      "timestamp": 3.2666666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            206,
+            208,
+            223,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            395,
+            189,
+            406,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            297,
+            242,
+            358,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            478,
+            257,
+            507,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "timestamp": 3.3333333333333335,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            207,
+            208,
+            224,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            395,
+            189,
+            406,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            298,
+            242,
+            359,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            478,
+            257,
+            507,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 51,
+      "timestamp": 3.4,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            207,
+            208,
+            224,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            395,
+            189,
+            406,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            298,
+            242,
+            359,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            477,
+            257,
+            506,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 52,
+      "timestamp": 3.466666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            208,
+            208,
+            225,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            394,
+            189,
+            405,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            299,
+            242,
+            360,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            477,
+            257,
+            506,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 53,
+      "timestamp": 3.533333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            209,
+            208,
+            226,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            394,
+            189,
+            405,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            299,
+            242,
+            360,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            476,
+            257,
+            505,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 54,
+      "timestamp": 3.6,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            209,
+            208,
+            226,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            394,
+            189,
+            405,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            300,
+            242,
+            361,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            476,
+            257,
+            505,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 55,
+      "timestamp": 3.6666666666666665,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            210,
+            208,
+            227,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            393,
+            189,
+            404,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            300,
+            242,
+            361,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            476,
+            257,
+            505,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 56,
+      "timestamp": 3.7333333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            211,
+            208,
+            228,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            393,
+            189,
+            404,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            301,
+            242,
+            362,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            475,
+            257,
+            504,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 57,
+      "timestamp": 3.8,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            211,
+            208,
+            228,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            393,
+            189,
+            404,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            301,
+            242,
+            362,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            475,
+            257,
+            504,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 58,
+      "timestamp": 3.8666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            212,
+            208,
+            229,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            392,
+            189,
+            403,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            302,
+            242,
+            363,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            474,
+            257,
+            503,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 59,
+      "timestamp": 3.933333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            212,
+            208,
+            229,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            392,
+            189,
+            403,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            302,
+            242,
+            363,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            474,
+            257,
+            503,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "timestamp": 4.0,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            213,
+            208,
+            230,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            392,
+            189,
+            403,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            303,
+            242,
+            364,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            473,
+            257,
+            502,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 61,
+      "timestamp": 4.066666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            213,
+            208,
+            230,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            391,
+            189,
+            402,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            303,
+            242,
+            364,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            473,
+            257,
+            502,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 62,
+      "timestamp": 4.133333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            214,
+            208,
+            231,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            391,
+            189,
+            402,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            304,
+            242,
+            365,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            472,
+            257,
+            501,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 63,
+      "timestamp": 4.2,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            215,
+            208,
+            232,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            391,
+            189,
+            402,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            304,
+            242,
+            365,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            472,
+            257,
+            501,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 64,
+      "timestamp": 4.266666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            215,
+            208,
+            232,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            391,
+            189,
+            402,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            305,
+            242,
+            366,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            472,
+            257,
+            501,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 65,
+      "timestamp": 4.333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            216,
+            208,
+            233,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            390,
+            189,
+            401,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            305,
+            242,
+            366,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            471,
+            257,
+            500,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "timestamp": 4.4,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            216,
+            208,
+            233,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            390,
+            189,
+            401,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            306,
+            242,
+            367,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            471,
+            257,
+            500,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 67,
+      "timestamp": 4.466666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            217,
+            208,
+            234,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            390,
+            189,
+            401,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            306,
+            242,
+            367,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            470,
+            257,
+            499,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 68,
+      "timestamp": 4.533333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            217,
+            208,
+            234,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            389,
+            189,
+            400,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            307,
+            242,
+            368,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            470,
+            257,
+            499,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 69,
+      "timestamp": 4.6,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            218,
+            208,
+            235,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            389,
+            189,
+            400,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            307,
+            242,
+            368,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            470,
+            257,
+            499,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "timestamp": 4.666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            218,
+            208,
+            235,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            389,
+            189,
+            400,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            308,
+            242,
+            369,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            469,
+            257,
+            498,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 71,
+      "timestamp": 4.733333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            219,
+            208,
+            236,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            388,
+            189,
+            399,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            308,
+            242,
+            369,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            469,
+            257,
+            498,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 72,
+      "timestamp": 4.8,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            219,
+            208,
+            236,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            388,
+            189,
+            399,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            309,
+            242,
+            370,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            468,
+            257,
+            497,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 73,
+      "timestamp": 4.866666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            220,
+            208,
+            237,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            388,
+            189,
+            399,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            309,
+            242,
+            370,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            468,
+            257,
+            497,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 74,
+      "timestamp": 4.933333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            220,
+            208,
+            237,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            387,
+            189,
+            398,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            310,
+            242,
+            371,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            468,
+            257,
+            497,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "timestamp": 5.0,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            221,
+            208,
+            238,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            387,
+            189,
+            398,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            310,
+            242,
+            371,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            467,
+            257,
+            496,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 76,
+      "timestamp": 5.066666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            221,
+            208,
+            238,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            387,
+            189,
+            398,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            311,
+            242,
+            372,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            467,
+            257,
+            496,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 77,
+      "timestamp": 5.133333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            222,
+            208,
+            239,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            386,
+            189,
+            397,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            311,
+            242,
+            372,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            466,
+            257,
+            495,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 78,
+      "timestamp": 5.2,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            222,
+            208,
+            239,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            386,
+            189,
+            397,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            311,
+            242,
+            372,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            466,
+            257,
+            495,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 79,
+      "timestamp": 5.266666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            223,
+            208,
+            240,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            385,
+            189,
+            396,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            312,
+            242,
+            373,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            466,
+            257,
+            495,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 80,
+      "timestamp": 5.333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            223,
+            208,
+            240,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            385,
+            189,
+            396,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            312,
+            242,
+            373,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            465,
+            257,
+            494,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 81,
+      "timestamp": 5.4,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            224,
+            208,
+            241,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            385,
+            189,
+            396,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            313,
+            242,
+            374,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            465,
+            257,
+            494,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 82,
+      "timestamp": 5.466666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            224,
+            208,
+            241,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            384,
+            189,
+            395,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            313,
+            242,
+            374,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            465,
+            257,
+            494,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 83,
+      "timestamp": 5.533333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            224,
+            208,
+            241,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            384,
+            189,
+            395,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            314,
+            242,
+            375,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            464,
+            257,
+            493,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "timestamp": 5.6,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            225,
+            208,
+            242,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            384,
+            189,
+            395,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            314,
+            242,
+            375,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            464,
+            257,
+            493,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 85,
+      "timestamp": 5.666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            225,
+            208,
+            242,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            383,
+            189,
+            394,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            315,
+            242,
+            376,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            464,
+            257,
+            493,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 86,
+      "timestamp": 5.733333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            226,
+            208,
+            243,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            383,
+            189,
+            394,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            315,
+            242,
+            376,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            463,
+            257,
+            492,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 87,
+      "timestamp": 5.8,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            226,
+            208,
+            243,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            383,
+            189,
+            394,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            315,
+            242,
+            376,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            463,
+            257,
+            492,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 88,
+      "timestamp": 5.866666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            226,
+            208,
+            243,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            382,
+            189,
+            393,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            316,
+            242,
+            377,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            463,
+            257,
+            492,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 89,
+      "timestamp": 5.933333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            227,
+            208,
+            244,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            382,
+            189,
+            393,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            316,
+            242,
+            377,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            462,
+            257,
+            491,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 90,
+      "timestamp": 6.0,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            227,
+            208,
+            244,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            382,
+            189,
+            393,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            317,
+            242,
+            378,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            462,
+            257,
+            491,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 91,
+      "timestamp": 6.066666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            228,
+            208,
+            245,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            381,
+            189,
+            392,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            317,
+            242,
+            378,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            462,
+            257,
+            491,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 92,
+      "timestamp": 6.133333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            228,
+            208,
+            245,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            381,
+            189,
+            392,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            318,
+            242,
+            379,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            461,
+            257,
+            490,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 93,
+      "timestamp": 6.2,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            228,
+            208,
+            245,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            380,
+            189,
+            391,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            318,
+            242,
+            379,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            461,
+            257,
+            490,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 94,
+      "timestamp": 6.266666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            229,
+            208,
+            246,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            380,
+            189,
+            391,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            318,
+            242,
+            379,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            461,
+            257,
+            490,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 95,
+      "timestamp": 6.333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            229,
+            208,
+            246,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            380,
+            189,
+            391,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            319,
+            242,
+            380,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            460,
+            257,
+            489,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 96,
+      "timestamp": 6.4,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            229,
+            208,
+            246,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            379,
+            189,
+            390,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            319,
+            242,
+            380,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            460,
+            257,
+            489,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 97,
+      "timestamp": 6.466666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            229,
+            208,
+            246,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            379,
+            189,
+            390,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            320,
+            242,
+            381,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            460,
+            257,
+            489,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 98,
+      "timestamp": 6.533333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            230,
+            208,
+            247,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            379,
+            189,
+            390,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            320,
+            242,
+            381,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            460,
+            257,
+            489,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "timestamp": 6.6,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            230,
+            208,
+            247,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            378,
+            189,
+            389,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            320,
+            242,
+            381,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            459,
+            257,
+            488,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "timestamp": 6.666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            230,
+            208,
+            247,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            378,
+            189,
+            389,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            321,
+            242,
+            382,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            459,
+            257,
+            488,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 101,
+      "timestamp": 6.733333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            231,
+            208,
+            248,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            377,
+            189,
+            388,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            321,
+            242,
+            382,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            459,
+            257,
+            488,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 102,
+      "timestamp": 6.8,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            231,
+            208,
+            248,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            377,
+            189,
+            388,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            322,
+            242,
+            383,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            459,
+            257,
+            488,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 103,
+      "timestamp": 6.866666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            231,
+            208,
+            248,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            377,
+            189,
+            388,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            322,
+            242,
+            383,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            458,
+            257,
+            487,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 104,
+      "timestamp": 6.933333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            231,
+            208,
+            248,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            376,
+            189,
+            387,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            322,
+            242,
+            383,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            458,
+            257,
+            487,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 105,
+      "timestamp": 7.0,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            232,
+            208,
+            249,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            376,
+            189,
+            387,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            323,
+            242,
+            384,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            458,
+            257,
+            487,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 106,
+      "timestamp": 7.066666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            232,
+            208,
+            249,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            376,
+            189,
+            387,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            323,
+            242,
+            384,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            458,
+            257,
+            487,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 107,
+      "timestamp": 7.133333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            232,
+            208,
+            249,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            375,
+            189,
+            386,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            323,
+            242,
+            384,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            457,
+            257,
+            486,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 108,
+      "timestamp": 7.2,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            232,
+            208,
+            249,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            375,
+            189,
+            386,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            324,
+            242,
+            385,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            457,
+            257,
+            486,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 109,
+      "timestamp": 7.266666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            233,
+            208,
+            250,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            374,
+            189,
+            385,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            324,
+            242,
+            385,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            457,
+            257,
+            486,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 110,
+      "timestamp": 7.333333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            233,
+            208,
+            250,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            374,
+            189,
+            385,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            325,
+            242,
+            386,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            457,
+            257,
+            486,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 111,
+      "timestamp": 7.4,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            233,
+            208,
+            250,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            374,
+            189,
+            385,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            325,
+            242,
+            386,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            456,
+            257,
+            485,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 112,
+      "timestamp": 7.466666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            233,
+            208,
+            250,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            373,
+            189,
+            384,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            325,
+            242,
+            386,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            456,
+            257,
+            485,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 113,
+      "timestamp": 7.533333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            233,
+            208,
+            250,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            373,
+            189,
+            384,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            326,
+            242,
+            387,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            456,
+            257,
+            485,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 114,
+      "timestamp": 7.6,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            233,
+            208,
+            250,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            373,
+            189,
+            384,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            326,
+            242,
+            387,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            456,
+            257,
+            485,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 115,
+      "timestamp": 7.666666666666667,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            234,
+            208,
+            251,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            372,
+            189,
+            383,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            326,
+            242,
+            387,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            456,
+            257,
+            485,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 116,
+      "timestamp": 7.733333333333333,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            234,
+            208,
+            251,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            372,
+            189,
+            383,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            327,
+            242,
+            388,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            456,
+            257,
+            485,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "timestamp": 7.8,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            234,
+            208,
+            251,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            371,
+            189,
+            382,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            327,
+            242,
+            388,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            455,
+            257,
+            484,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 118,
+      "timestamp": 7.866666666666666,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            234,
+            208,
+            251,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            371,
+            189,
+            382,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            327,
+            242,
+            388,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            455,
+            257,
+            484,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    },
+    {
+      "frame": 119,
+      "timestamp": 7.933333333333334,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            234,
+            208,
+            251,
+            258
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "person",
+          "confidence": 1.0,
+          "bbox": [
+            371,
+            189,
+            382,
+            222
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "car",
+          "confidence": 1.0,
+          "bbox": [
+            328,
+            242,
+            389,
+            268
+          ],
+          "confidence_kind": "synthetic color match"
+        },
+        {
+          "class": "bicycle",
+          "confidence": 1.0,
+          "bbox": [
+            455,
+            257,
+            484,
+            278
+          ],
+          "confidence_kind": "synthetic color match"
+        }
+      ]
+    }
+  ]
+}

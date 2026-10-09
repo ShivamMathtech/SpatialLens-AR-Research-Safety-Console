@@ -1,0 +1,5 @@
+model: yolov8n.pt
+tracker: bytetrack.yaml
+confidence: 0.4
+iou: 0.5
+device: cpu

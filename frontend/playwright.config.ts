@@ -1,0 +1,2 @@
+import {defineConfig} from '@playwright/test';
+export default defineConfig({testDir:'./e2e',timeout:60000,workers:1,webServer:{command:'python ../run.py --no-browser',url:'http://127.0.0.1:8000/api/health',reuseExistingServer:false,env:{SPATIAL_DATA_DIR:'data-browser-test'},timeout:30000},use:{baseURL:'http://127.0.0.1:8000',headless:true,viewport:{width:1536,height:1050},launchOptions:{args:['--no-sandbox','--disable-dev-shm-usage']}}});

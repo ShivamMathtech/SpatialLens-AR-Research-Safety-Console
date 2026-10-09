@@ -1,0 +1,1 @@
+{"name":"spatiallens","private":true,"version":"1.0.0","scripts":{"build":"npm --prefix frontend run build","dev":"npm --prefix frontend run dev","test:frontend":"npm --prefix frontend test"}}

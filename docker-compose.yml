@@ -1,0 +1,12 @@
+services:
+  spatiallens:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - spatial_data:/app/data
+    environment:
+      ALLOWED_HOSTS: "127.0.0.1,localhost"
+    restart: unless-stopped
+volumes:
+  spatial_data:

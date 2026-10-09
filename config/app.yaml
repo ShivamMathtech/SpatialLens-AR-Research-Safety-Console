@@ -1,0 +1,3 @@
+record: true
+max_recorded_frames: 1800
+view_mode: normal

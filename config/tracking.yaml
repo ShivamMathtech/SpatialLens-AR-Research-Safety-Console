@@ -1,0 +1,3 @@
+history: 45
+max_missed: 15
+smoothing: 0.55

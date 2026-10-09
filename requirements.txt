@@ -1,0 +1,16 @@
+# Tested on Python 3.12
+fastapi==0.116.1
+starlette==0.47.3
+pydantic==2.11.7
+uvicorn==0.35.0
+websockets==15.0.1
+numpy==2.2.6
+opencv-python==4.11.0.86
+SQLAlchemy==2.0.43
+alembic==1.16.5
+PyYAML==6.0.2
+psutil==7.0.0
+python-multipart==0.0.20
+python-dotenv==1.1.1
+httpx==0.28.1
+pytest==8.4.2
